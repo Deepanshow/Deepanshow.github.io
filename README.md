@@ -27,6 +27,6 @@ The following table shows the details of the simulation runs conducted in this p
 
 Below is a GIF showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
-![Neutron Star Jet Simulation](path/to/your/gif.gif)
+![Neutron Star Jet Simulation](Figure1.gif)
 
 Feel free to explore the project repository for more information and detailed analysis.
