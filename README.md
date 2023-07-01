@@ -29,4 +29,6 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 
 ![Neutron Star Jet Simulation](/Total Escape Mass.png)
 
+[Feedback Animation for Different Runs](/Feedback Animation.gif)
+
 Feel free to explore the project repository for more information and detailed analysis.
