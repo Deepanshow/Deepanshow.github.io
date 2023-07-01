@@ -14,12 +14,11 @@ Common Envelope Evolution (CEE) is a crucial phase in the binary star evolution,
 
 The following table shows the details of the simulation runs conducted in this project:
 
-| Run | \dot{M}_j | \dot{v}_j |
+| Run | \dot{M}_j  | \dot{v}_j (km s^{-1}) |
 | --- | ---------- | ---------- |
-| 1   | Value 1    | Value 1    |
-| 2   | Value 2    | Value 2    |
-| 3   | Value 3    | Value 3    |
-| 4   | Value 4    | Value 4    |
+| J8  | 2          | 8640       |
+| 001 | 20         | 8640       |
+| 003 | 20         | 30000      |
 
 ## GIF Presentation
 
