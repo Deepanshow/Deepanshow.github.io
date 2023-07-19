@@ -26,7 +26,11 @@ The following table shows the details of the simulation runs conducted in this p
 
 Below is a GIF showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
-![Neutron Star Jet Simulation](/Total Escape Mass.png)
+![Neutron Star Jet Simulation](/Total Unbound Mass due to Jet.png)
+![Neutron Star Jet Simulation](/)
+![Neutron Star Jet Simulation](/Total Unbound Mass due to Jet.png)
+![Neutron Star Jet Simulation](/Total Unbound Mass due to Jet.png)
+![Neutron Star Jet Simulation](/Total Unbound Mass due to Jet.png)
 
 <img src="Feedback Animation.gif" alt="Feedback Animation for Different Runs">
 
