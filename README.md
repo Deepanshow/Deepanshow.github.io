@@ -32,6 +32,7 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 ![Neutron Star Jet Simulation](/Total Unbound Mass due to jet difference.png)
 
 
+### Feedback 
 <figure>
 
   <img src="Feedback_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
@@ -53,6 +54,7 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
   <figcaption>Feedback Edge view from P1 </figcaption>
 </figure>
 
+### Unbound Mass
 <figure>
   <img src="unbound_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
   <figcaption>Unbound Mass Edge view </figcaption>
@@ -63,5 +65,26 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
   <figcaption>Feedback Mass Edge view from P1 </figcaption>
 </figure>
 
+
+
+### Animations with caption
+
+Caption: Feedback Edge view
+![Feedback Animation for Different Runs](Feedback_edge_60Rsun.gif)
+
+Caption: Feedback Edge view
+![Feedback Animation for Different Runs](Feedback_edge_575Rsun.gif)
+
+Caption: Feedback Edge view from P1
+![Feedback Animation for Different Runs](Feedback_edge_P1_60Rsun.gif)
+
+Caption: Feedback Edge view from P1
+![Feedback Animation for Different Runs](Feedback_edge_P1_575Rsun.gif)
+
+Caption: Unbound Mass Edge view
+![Feedback Animation for Different Runs](unbound_edge_60Rsun.gif)
+
+Caption: Feedback Mass Edge view from P1
+![Feedback Animation for Different Runs](unbound_edge_575Rsun.gif)
 
 Feel free to explore the project repository for more information and detailed analysis.
