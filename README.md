@@ -22,33 +22,7 @@ The following table shows the details of the simulation runs conducted in this p
 
 ### Neutron Star Jet Simulation
 
-Below is a GIF showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
-
-# Plots
-
-## Feedback Plots
-
-![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif)
-<div align="center"><em>Feedback edge 60Rsun </em></div>
-
-<br> <br>
-
-![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif)
-<div align="center"><em>Feedback edge 60Rsun </em></div>
-
-<br><br>
-
-![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif)
-<div align="center"><em>Feedback edge view from P1 60Rsun </em></div>
-
-<br><br>
-
-![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_P1_575Rsun.gif)
-<div align="center"><em>Feedback edge view from P1 575Rsun </em></div>
-
-# Plots
-
-## Feedback Plots
+Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
 # Plots
 
@@ -110,9 +84,6 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 <p align="center"><em>Rho edge view from P1 575Rsun</em></p>
 
 <br><br>
-
-
-
 
 ## Unbound Mass Plot
 
