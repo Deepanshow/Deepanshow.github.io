@@ -12,7 +12,7 @@ Common Envelope Evolution (CEE) is a crucial phase in the binary star evolution,
 
 The following table shows the details of the simulation runs conducted in this project:
 
-| Run | \dot{M}_j  | \dot{v}_j (km s^{-1}) |
+| Run | \$\dot{M}_j\$  | \$ \dot{v}_j (km s^{-1}) \$ |
 | --- | ---------- | ---------- |
 | J8  | 2          | 8640       |
 | 001 | 20         | 8640       |
@@ -36,13 +36,14 @@ The following table shows the details of the simulation runs conducted in this p
 
 
 
+<br><br>
+
+#### Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
 
-Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
+## Feedback Plot
 
-
-## Feedback Plots
 <p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif" alt="Feedback Edge 60Rsun" align="center">
 <p>
@@ -74,7 +75,6 @@ Below are the plots showcasing the simulation of a neutron star jet and its effe
 ## Rho Plots
 
 
-
 <p align="center">
   <img src="/Plots/Rho/rho_edge_60Rsun.gif" alt="Rho Edge Full">
 </p>
@@ -94,6 +94,8 @@ Below are the plots showcasing the simulation of a neutron star jet and its effe
 </p>
 <p align="center"><em>Rho edge view from P1 60Rsun</em></p>
 
+<br><br>
+
 <p align="center">
   <img src="/Plots/Rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun">
 </p>
@@ -107,6 +109,8 @@ Below are the plots showcasing the simulation of a neutron star jet and its effe
   <img src="/Plots/Unbound/unbound_edge_60Rsun.gif" alt="Unbound Edge 60Rsun">
 </p>
 <p align="center"><em>Unbound mass plot edge view 60Rsun </em></p>
+
+<br><br>
 
 <p align="center">
   <img src="/Plots/Unbound/unbound_edge_575Rsun.gif" alt="Unbound Edge 575Rsun">
