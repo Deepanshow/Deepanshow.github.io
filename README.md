@@ -1,7 +1,5 @@
-# Project Description
 
-## Name: Deepanshu
-## Project Title: Effect of Neutron star jet on Common Envelope Evolution (CEE)
+# Effect of Neutron star jet on Common Envelope Evolution (CEE)
 ## Supervisor: Dr. Luke Chamandy
 
 In this project, we aim to investigate the impact of a neutron star jet on the Common Envelope Evolution (CEE) process. The Common Envelope Evolution occurs in binary star systems where one star expands and engulfs its companion within its envelope. This interaction leads to the formation of a close binary system, which can undergo various evolutionary paths.
