@@ -33,6 +33,7 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 ![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif)
 <div align="center"><em>Feedback edge 60Rsun </em></div>
 
-
+![Feedback Plot 1](/Plots/Feedback Plots/Feedback_edge_60Rsun.gif)
+<div align="center"><em>Feedback edge 60Rsun </em></div>
 
 
