@@ -24,17 +24,14 @@ The following table shows the details of the simulation runs conducted in this p
 <p align="center">
 <img src="/Plots/Total Unbound Mass.png" alt="Total Unbound Mass" align="center">
 <p>
-<p align="center">Total Unbound Mass with Time</p>
 
 <p align="center">
 <img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
 <p>
-<p align="center">Total Unbound Mass due to jet with Time</p>
 
 <p align="center">
-<img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
+<img src="/Plots/Total Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
 <p>
-<p align="center">Total Unbound Mass due to jet with Time</p>
 
 
 
