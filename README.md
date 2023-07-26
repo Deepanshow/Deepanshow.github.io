@@ -103,4 +103,14 @@ Below are the plots showcasing the simulation of a neutron star jet and its effe
 
 ## Unbound Mass Plot
 
+<p align="center">
+  <img src="/Plots/Unbound/unbound_edge_60Rsun.gif" alt="Unbound Edge 60Rsun">
+</p>
+<p align="center"><em>Unbound mass plot edge view 60Rsun </em></p>
+
+<p align="center">
+  <img src="/Plots/Unbound/unbound_edge_575Rsun.gif" alt="Unbound Edge 575Rsun">
+</p>
+<p align="center"><em>Unbound mass plot edge view 575Rsun </em></p>
+
 
