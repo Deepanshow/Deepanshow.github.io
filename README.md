@@ -35,22 +35,22 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 ### Feedback 
 <figure>
 
-  <img src="Feedback_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
+  <img src="Feedback Plots/Feedback_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
   </figcaption>Feedback Edge view</figcaption>
 </figure>
 
 <figure>
-  <img src="Feedback_edge_575Rsun.gif" alt="Feedback Animation for Different Runs">
+  <img src="Feedback Plots/Feedback_edge_575Rsun.gif" alt="Feedback Animation for Different Runs">
   <figcaption>Feedback Edge view</figcaption>
 </figure>
 
 <figure>
-  <img src="Feedback_edge_P1_60Rsun.gif" alt="Feedback Animation for Different Runs">
+  <img src="Feedback Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Animation for Different Runs">
   <figcaption>Feedback Edge view from P1 </figcaption>
 </figure>
 
 <figure>
-  <img src="Feedback_edge_P1_575Rsun.gif" alt="Feedback Animation for Different Runs">
+  <img src="Feedback Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Animation for Different Runs">
   <figcaption>Feedback Edge view from P1 </figcaption>
 </figure>
 
