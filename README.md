@@ -30,7 +30,7 @@ The following table shows the details of the simulation runs conducted in this p
 <p>
 
 <p align="center">
-<img src="/Plots/Total Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
+<img src="/Plots/Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
 <p>
 
 
