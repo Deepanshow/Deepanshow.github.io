@@ -26,65 +26,13 @@ The following table shows the details of the simulation runs conducted in this p
 
 Below is a GIF showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
-![Neutron Star Jet Simulation](/Total Unbound Mass.png)
-![Neutron Star Jet Simulation](/Total Unbound Mass due to Jet.png)
-![Neutron Star Jet Simulation](/Total Unbound Mass due to jet 21d.png)
-![Neutron Star Jet Simulation](/Total Unbound Mass due to jet difference.png)
+# Plots
 
+## Feedback Plots
 
-### Feedback 
-<figure>
-
-  <img src="Feedback Plots/Feedback_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
-  </figcaption>Feedback Edge view</figcaption>
-</figure>
-
-<figure>
-  <img src="Feedback Plots/Feedback_edge_575Rsun.gif" alt="Feedback Animation for Different Runs">
-  <figcaption>Feedback Edge view</figcaption>
-</figure>
-
-<figure>
-  <img src="Feedback Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Animation for Different Runs">
-  <figcaption>Feedback Edge view from P1 </figcaption>
-</figure>
-
-<figure>
-  <img src="Feedback Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Animation for Different Runs">
-  <figcaption>Feedback Edge view from P1 </figcaption>
-</figure>
-
-### Unbound Mass
-<figure>
-  <img src="unbound_edge_60Rsun.gif" alt="Feedback Animation for Different Runs">
-  <figcaption>Unbound Mass Edge view </figcaption>
-</figure>
-
-<figure>
-  <img src="unbound_edge_575Rsun.gif" alt="Feedback Animation for Different Runs">
-  <figcaption>Feedback Mass Edge view from P1 </figcaption>
-</figure>
+![Feedback Plot 1](/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif)
+<div align="center"><em>Feedback edge 60Rsun </em></div>
 
 
 
-### Animations with caption
 
-Caption: Feedback Edge view
-![Feedback Animation for Different Runs](Feedback_edge_60Rsun.gif)
-
-Caption: Feedback Edge view
-![Feedback Animation for Different Runs](Feedback_edge_575Rsun.gif)
-
-Caption: Feedback Edge view from P1
-![Feedback Animation for Different Runs](Feedback_edge_P1_60Rsun.gif)
-
-Caption: Feedback Edge view from P1
-![Feedback Animation for Different Runs](Feedback_edge_P1_575Rsun.gif)
-
-Caption: Unbound Mass Edge view
-![Feedback Animation for Different Runs](unbound_edge_60Rsun.gif)
-
-Caption: Feedback Mass Edge view from P1
-![Feedback Animation for Different Runs](unbound_edge_575Rsun.gif)
-
-Feel free to explore the project repository for more information and detailed analysis.
