@@ -44,5 +44,31 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 
 ## Rho Plots
 
+# Plots
+
+## Rho Plots
+
+<p align="center">
+  <img src="/Plots/rho/rho_edge_60Rsun.gif" alt="Rho Edge Full">
+</p>
+<p align="center"><em>Rho edge 60 Rsun </em></p>
+
+<p align="center">
+  <img src="/Plots/rho/rho_edge_full.gif" alt="Rho Edge Full">
+</p>
+<p align="center"><em>Rho edge 575 Rsun</em></p>
+
+<p align="center">
+  <img src="/Plots/rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+</p>
+<p align="center"><em>Rho edge view from P1 575Rsun</em></p>
+
+<p align="center">
+  <img src="/Plots/rho/rho_edge_P1_60Rsun.gif" alt="Rho Edge View from P1 60Rsun">
+</p>
+<p align="center"><em>Rho edge view from P1 60Rsun</em></p>
+
+
+## Unbound Mass Plot
 
 
