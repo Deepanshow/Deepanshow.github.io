@@ -18,13 +18,32 @@ The following table shows the details of the simulation runs conducted in this p
 | 001 | 20         | 8640       |
 | 003 | 20         | 30000      |
 
-## GIF Presentation
 
-### Neutron Star Jet Simulation
+# Unbound Mass with Time
+
+<p align="center">
+<img src="/Plots/Total Unbound Mass.png" alt="Total Unbound Mass" align="center">
+<p>
+<p align="center">Total Unbound Mass with Time</p>
+
+<p align="center">
+<img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
+<p>
+<p align="center">Total Unbound Mass due to jet with Time</p>
+
+<p align="center">
+<img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
+<p>
+<p align="center">Total Unbound Mass due to jet with Time</p>
+
+
+
+
+
 
 Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
-# Plots
+
 
 ## Feedback Plots
 <p align="center">
