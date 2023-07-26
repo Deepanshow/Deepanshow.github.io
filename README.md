@@ -52,23 +52,35 @@ Below is a GIF showcasing the simulation of a neutron star jet and its effect on
 
 ## Feedback Plots
 
+# Plots
+
+## Feedback Plots
+<p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif" alt="Feedback Edge 60Rsun" align="center">
-<em align="center">Feedback edge 60Rsun</em>
+<p>
+<p align="center">Feedback edge 60Rsun</p>
 
 <br> <br>
 
+<p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif" alt="Feedback Edge 575Rsun" align="center">
-<em align="center">Feedback edge 60Rsun</em>
+<p>
+<p align="center">Feedback edge 60Rsun</p>
 
 <br><br>
 
+<p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Edge View from P1 60Rsun" align="center">
-<em align="center">Feedback edge view from P1 60Rsun</em>
+<p>
+<p align="center">Feedback edge view from P1 60Rsun</p>
 
 <br><br>
 
+<p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Edge View from P1 575Rsun" align="center">
-<em align="center">Feedback edge view from P1 575Rsun</em>
+<p>
+<p align="center">Feedback edge view from P1 575Rsun</p>
+
 
 
 ## Rho Plots
