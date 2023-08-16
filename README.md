@@ -103,6 +103,14 @@ The following table shows the details of the simulation runs conducted in this p
 
 <br><br>
 
+## Rho With Vector
+
+<p align="center">
+  <img src="/Plots/Other_Plots/rho_with_vectors_edge_P1_60Rsun.gif" alt="rho with vector full">
+</p>
+<p align="center"><em>Rho with vectors 60Rsun </em></p>
+
+
 ## Unbound Mass Plot
 
 <p align="center">
