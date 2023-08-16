@@ -83,7 +83,7 @@ The following table shows the details of the simulation runs conducted in this p
 <br><br>
 
 <p align="center">
-  <img src="/Plots/Rho/rho_edge_full.gif" alt="Rho Edge Full">
+  <img src="/Plots/Rho/rho_edge_575.gif" alt="Rho Edge Full">
 </p>
 <p align="center"><em>Rho edge 575 Rsun</em></p>
 
