@@ -54,7 +54,7 @@ The following table shows the details of the simulation runs conducted in this p
 <p align="center">
 <img src="/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif" alt="Feedback Edge 575Rsun" align="center">
 <p>
-<p align="center">Feedback edge 60Rsun</p>
+<p align="center">Feedback edge 575Rsun</p>
 
 <br><br>
 
@@ -110,6 +110,12 @@ The following table shows the details of the simulation runs conducted in this p
 </p>
 <p align="center"><em>Rho with vectors 60Rsun </em></p>
 
+##Temperature
+
+<p align="center">
+  <img src="/Plots/Other_Plots/temperature_edge_1150.gif" alt="Temperature">
+</p>
+<p align="center"><em>Temperature (Kelvin) edge 1150Rsun  </em></p>
 
 ## Unbound Mass Plot
 
