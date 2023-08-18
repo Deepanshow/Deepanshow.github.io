@@ -114,15 +114,40 @@ The following table shows the details of the simulation runs conducted in this p
 ## Unbound Mass Plot
 
 <p align="center">
-  <img src="/Plots/Unbound/unbound_edge_60Rsun.gif" alt="Unbound Edge 60Rsun">
+  <img src="/Plots/Unbound/unbound_mass_Edge_60.gif" alt="Unbound Edge 60Rsun">
 </p>
 <p align="center"><em>Unbound mass plot edge view 60Rsun </em></p>
 
 <br><br>
 
 <p align="center">
-  <img src="/Plots/Unbound/unbound_edge_575Rsun.gif" alt="Unbound Edge 575Rsun">
+  <img src="/Plots/Unbound/unbound_mass_Edge_575.gif" alt="Unbound Edge 575Rsun">
 </p>
 <p align="center"><em>Unbound mass plot edge view 575Rsun </em></p>
+
+<p align="center">
+  <img src="/Plots/Unbound/unbound_mass_Edge_P1_60.gif" alt="Unbound Edge view from P1 60Rsun">
+</p>
+<p align="center"><em>Unbound mass plot edge view from P1 60Rsun </em></p>
+
+<p align="center">
+  <img src="/Plots/Unbound/unbound_mass_Edge_P1_575.gif" alt="Unbound Edge view from P1 575Rsun">
+</p>
+<p align="center"><em>Unbound mass plot edge view from P1 575Rsun </em></p>
+
+
+<p align="center">
+  <img src="/Plots/Unbound/unbound_mass_Face_60.gif" alt="Unbound Face-on 60Rsun">
+</p>
+<p align="center"><em>Unbound mass plot face-on view 60Rsun </em></p>
+
+
+<p align="center">
+  <img src="/Plots/Unbound/unbound_mass_Face_575.gif" alt="Unbound Face-on 575Rsun">
+</p>
+<p align="center"><em>Unbound mass plot face-on view 575Rsun </em></p>
+
+
+
 
 
