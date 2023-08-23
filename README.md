@@ -117,6 +117,12 @@ The following table shows the details of the simulation runs conducted in this p
 </p>
 <p align="center"><em>Temperature (Kelvin) edge 1150Rsun  </em></p>
 
+<p align="center">
+  <img src="/Plots/Other_Plots/temperature_edge_p1_575.gif" alt="Temperature p1">
+</p>
+<p align="center"><em>Temperature (Kelvin) edge view from P1 1150Rsun  </em></p>
+
+
 ## Unbound Mass Plot
 
 <p align="center">
