@@ -154,6 +154,9 @@ The following table shows the details of the simulation runs conducted in this p
 <p align="center"><em>Unbound mass plot face-on view 575Rsun </em></p>
 
 
-
+<p align="center">
+  <img src="/Plots/Unbound/Unbound_face_z_20Rsun.gif" alt="Unbound Face-on (z+20Rsun) 575Rsun">
+</p>
+<p align="center"><em>Unbound mass plot face-on ( z + 20Rsun) view 575Rsun </em></p>
 
 
