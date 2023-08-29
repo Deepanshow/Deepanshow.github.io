@@ -41,7 +41,7 @@ The following table shows the details of the simulation runs conducted in this p
 
 <br><br>
 # Movies
-1. [Feedback Plot] (#Feeback movies)
+1. [Feedback Plot] (#Feeback Plot)
 
 
 ## Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
