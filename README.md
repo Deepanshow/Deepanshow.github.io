@@ -33,15 +33,18 @@ The following table shows the details of the simulation runs conducted in this p
 <img src="/Plots/Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
 <p>
 
-## Accretion Rate for different runs
+# Accretion Rate for different runs
 <p align="center">
 <img src="/Plots/Accretion rate_2023-08-28 .png" alt="Accretion rate for different runs" align="center">
 <p>
 
 
 <br><br>
+# Movies
+1. [Feedback Plot] (#Feeback movies)
 
-#### Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
+
+## Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
 
 
