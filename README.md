@@ -20,7 +20,12 @@ The following table shows the details of the simulation runs conducted in this p
 
 
 # Unbound Mass with Time
-$$\frac{\pi}{\mu}$$
+$$
+\frac{\pi}{\mu}
+$$
+
+\( \mu \pi \root \)
+
 <p align="center">
 <img src="/Plots/Total Unbound Mass.png" alt="Total Unbound Mass" align="center">
 <p>
