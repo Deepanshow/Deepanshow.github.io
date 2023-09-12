@@ -17,11 +17,12 @@ Common Envelope Evolution (CEE) is a crucial phase in the binary star evolution,
 
 The following table shows the details of the simulation runs conducted in this project:
 
-| Run | \( \dot{M}_j \) (10<sup>-5</sup> M<sub>sol</sub> per yr) | \( \dot{v}_j \) (km/s) |
-| --- | ----------------------------------------- | --------------- |
-| J8  | 2                                       | 8640            |
-| 001 | 20                                      | 8640            |
-| 003 | 20                                      | 30000           |
+| Run | \( $$\dot{M}_j \)$$ (10<sup>-5</sup> M<sub>sol</sub> per yr) | \( $$\dot{v}_j$$ \) (km/s) |
+| --- | ------------------------------------------------------- | --------------- |
+| J8  | 2                                                   | 8640            |
+| 001 | 20                                                  | 8640            |
+| 003 | 20                                                  | 30000           |
+
 
 
 # Unbound Mass with Time
