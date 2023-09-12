@@ -29,22 +29,22 @@ $$
 
 \( \mu \pi \root \)
 
-<p align="center">
+
 <img src="/Plots/Total Unbound Mass.png" alt="Total Unbound Mass" align="center">
-<p>
 
-<p align="center">
+
+
 <img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
-<p>
 
-<p align="center">
+
+
 <img src="/Plots/Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
-<p>
+
 
 # Accretion Rate for different runs
-<p align="center">
+
 <img src="/Plots/Accretion rate_2023-08-28 .png" alt="Accretion rate for different runs" align="center">
-<p>
+
 
 
 <br><br>
@@ -58,123 +58,123 @@ $$
 
 ## Feedback Plot
 
-<p align="center">
+
 <img src="/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif" alt="Feedback Edge 60Rsun" align="center">
-<p>
-<p align="center">Feedback edge 60Rsun</p>
+
+Feedback edge 60Rsun
 
 <br> <br>
 
-<p align="center">
+
 <img src="/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif" alt="Feedback Edge 575Rsun" align="center">
-<p>
-<p align="center">Feedback edge 575Rsun</p>
+
+Feedback edge 575Rsun
 
 <br><br>
 
-<p align="center">
+
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Edge View from P1 60Rsun" align="center">
-<p>
-<p align="center">Feedback edge view from P1 60Rsun</p>
+
+Feedback edge view from P1 60Rsun
 
 <br><br>
 
-<p align="center">
+
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Edge View from P1 575Rsun" align="center">
-<p>
-<p align="center">Feedback edge view from P1 575Rsun</p>
+
+Feedback edge view from P1 575Rsun
 
 
 
 ## Rho Plots
 
 
-<p align="center">
+
   <img src="/Plots/Rho/rho_edge_60Rsun.gif" alt="Rho Edge Full">
-</p>
-<p align="center"><em>Rho edge 60 Rsun </em></p>
+
+<em>Rho edge 60 Rsun </em>
 
 <br><br>
 
-<p align="center">
+
   <img src="/Plots/Rho/rho_edge_575Rsun.gif" alt="Rho Edge Full">
-</p>
-<p align="center"><em>Rho edge 575 Rsun</em></p>
+
+<em>Rho edge 575 Rsun</em>
 
 <br><br>
 
-<p align="center">
+
   <img src="/Plots/Rho/rho_edge_P1_60Rsun.gif" alt="Rho Edge View from P1 60Rsun">
-</p>
-<p align="center"><em>Rho edge view from P1 60Rsun</em></p>
+
+<em>Rho edge view from P1 60Rsun</em>
 
 <br><br>
 
-<p align="center">
+
   <img src="/Plots/Rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun">
-</p>
-<p align="center"><em>Rho edge view from P1 575Rsun</em></p>
+
+<em>Rho edge view from P1 575Rsun</em>
 
 <br><br>
 
 ## Rho With Vector
 
-<p align="center">
+
   <img src="/Plots/Other_Plots/rho_with_vectors_edge_P1_60Rsun.gif" alt="rho with vector full">
-</p>
-<p align="center"><em>Rho with vectors 60Rsun </em></p>
+
+<em>Rho with vectors 60Rsun </em>
 
 ##Temperature
 
-<p align="center">
-  <img src="/Plots/Other_Plots/temperature_edge_1150.gif" alt="Temperature">
-</p>
-<p align="center"><em>Temperature (Kelvin) edge 1150Rsun  </em></p>
 
-<p align="center">
+  <img src="/Plots/Other_Plots/temperature_edge_1150.gif" alt="Temperature">
+
+<em>Temperature (Kelvin) edge 1150Rsun  </em>
+
+
   <img src="/Plots/Other_Plots/temperature_edge_p1_575.gif" alt="Temperature p1">
-</p>
-<p align="center"><em>Temperature (Kelvin) edge view from P1 1150Rsun  </em></p>
+
+<em>Temperature (Kelvin) edge view from P1 1150Rsun  </em>
 
 
 ## Unbound Mass Plot
 
-<p align="center">
+
   <img src="/Plots/Unbound/Unbound_mass_Edge_60.gif" alt="Unbound Edge 60Rsun">
-</p>
-<p align="center"><em>Unbound mass plot edge view 60Rsun </em></p>
+
+<em>Unbound mass plot edge view 60Rsun </em>
 
 <br><br>
 
-<p align="center">
+
   <img src="/Plots/Unbound/Unbound_mass_Edge_575.gif" alt="Unbound Edge 575Rsun">
-</p>
-<p align="center"><em>Unbound mass plot edge view 575Rsun </em></p>
 
-<p align="center">
+<em>Unbound mass plot edge view 575Rsun </em>
+
+
   <img src="/Plots/Unbound/Unbound_mass_Edge_P1_60.gif" alt="Unbound Edge view from P1 60Rsun">
-</p>
-<p align="center"><em>Unbound mass plot edge view from P1 60Rsun </em></p>
 
-<p align="center">
+<em>Unbound mass plot edge view from P1 60Rsun </em>
+
+
   <img src="/Plots/Unbound/Unbound_mass_Edge_P1_575.gif" alt="Unbound Edge view from P1 575Rsun">
-</p>
-<p align="center"><em>Unbound mass plot edge view from P1 575Rsun </em></p>
+
+<em>Unbound mass plot edge view from P1 575Rsun </em>
 
 
-<p align="center">
+
   <img src="/Plots/Unbound/Unbound_mass_Face_60.gif" alt="Unbound Face-on 60Rsun">
-</p>
-<p align="center"><em>Unbound mass plot face-on view 60Rsun </em></p>
+
+<em>Unbound mass plot face-on view 60Rsun </em>
 
 
-<p align="center">
+
   <img src="/Plots/Unbound/Unbound_mass_Face_575.gif" alt="Unbound Face-on 575Rsun">
-</p>
-<p align="center"><em>Unbound mass plot face-on view 575Rsun </em></p>
+
+<em>Unbound mass plot face-on view 575Rsun </em>
 
 
-<p align="center">
+
   <img src="/Plots/Unbound/Unbound_face_z_20Rsun.gif" alt="Unbound Face-on (z+20Rsun) 575Rsun">
-</p>
-<p align="center"><em>Unbound mass plot face-on ( z + 20Rsun) view 575Rsun </em></p>
+
+<em>Unbound mass plot face-on ( z + 20Rsun) view 575Rsun </em>
