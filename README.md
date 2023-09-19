@@ -26,26 +26,27 @@ The following table shows the details of the simulation runs conducted in this p
 
 
 
-<img src="/Plots/Total Unbound Mass.png" alt="Total Unbound Mass" align="center">
+<img src="/Plots/Total Escape Mass_2023-09-19.png" alt="Total Unbound Mass" align="center">
 
 
 
-<img src="/Plots/Total Unbound Mass due to jet only.png" alt="Total Unbound Mass jet only" align="center">
+<img src="/Plots/Total Escape Mass due to jet_2023-09-19.png" alt="Total Unbound Mass jet only" align="center">
 
 
 
-<img src="/Plots/Unbound Mass due to jet in log (difference).png" alt="Difference in run 001 and J8" align="center">
+<img src="/Plots/J8 Vs 001 Escape Mass2023-09-19.png" alt="Difference in run 001 and J8" align="center">
 
 
-# Accretion Rate for different runs
+# Accretion 
 
-<img src="/Plots/Accretion rate_2023-08-28 .png" alt="Accretion rate for different runs" align="center">
+<img src="/Plots/Accretion_with_time_2023-09-19.png" alt="Accretion rate for different runs" align="center">
+
+<img src="/Plots/Accretion_rate_2023-09-19" alt="Accretion rate for different runs" align="center">
 
 
 
 <br><br>
 # Movies
-1. [Feedback Plot] (#Feeback Plot)
 
 
 ## Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
