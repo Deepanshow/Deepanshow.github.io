@@ -41,7 +41,7 @@ The following table shows the details of the simulation runs conducted in this p
 
 <img src="/Plots/Accretion_with_time_2023-09-19.png" alt="Accretion rate for different runs" align="center">
 
-<img src="/Plots/Accretion_rate_2023-09-19" alt="Accretion rate for different runs" align="center">
+<img src="/Plots/Accretion_rate_2023-09-19.png" alt="Accretion rate for different runs" align="center">
 
 
 
