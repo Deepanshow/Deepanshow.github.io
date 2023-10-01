@@ -14,20 +14,6 @@ Common Envelope Evolution (CEE) is a crucial phase in the binary star evolution,
 
 The following table shows the details of the simulation runs conducted in this project:
 
-Run----------$$\dot{M}_j$$ (10<sup>-5</sup> M<sub>sol</sub> per yr) -----$$\dot{v}_j$$  (km/s)
-J8  --------- 2 --------------------------------------------------------- 8640 
-001 --------- 20 -------------------------------------------------------- 8640 
-003 --------- 20 ------------------------------------------------------- 30000           
-
-
-| Run | $$\dot{M}_j$$ (10<sup>-5</sup> M<sub>sol</sub> per yr) |  $$\dot{v}_j$$  (km/s) |
-| --- | ------------------------------------------------------- | --------------- |
-| J8  | 2                                                       | 8640            |
-| 001 | 20                                                  | 8640            |
-| 003 | 20                                                  | 30000           |
-
-
-
 # Unbound Mass with Time
 
 
@@ -41,6 +27,13 @@ J8  --------- 2 --------------------------------------------------------- 8640
 
 
 <img src="/Plots/J8 Vs 001 Escape Mass2023-09-19.png" alt="Difference in run 001 and J8" align="center">
+
+### run004 Vs run003
+
+<img src="/Plots/Total Escape Mass due to jet_2023-09-30.png" align="center">
+
+
+<img src="/Plots/Total Escape Mass_2023-09-30.png" align="center">
 
 
 # Accretion 
@@ -120,6 +113,26 @@ Feedback edge view from P1 575Rsun
 
 <br><br>
 
+### run003 Vs run004
+
+<img src="/Plots/Rho/Rho_edge_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+
+<em>Rho edge view from P1 575Rsun</em>
+
+<img src="/Plots/Rho/Rho_edge_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+
+<em>Rho edge view from P1 575Rsun</em>
+
+<img src="/Plots/Rho/Rho_edge_P1_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+
+<em>Rho edge view from P1 575Rsun</em>
+
+<img src="/Plots/Rho/Rho_edge_P1_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+
+<em>Rho edge view from P1 575Rsun</em>
+
+
+
 ## Rho With Vector
 
 
@@ -181,3 +194,8 @@ Feedback edge view from P1 575Rsun
   <img src="/Plots/Unbound/Unbound_face_z_20Rsun.gif" alt="Unbound Face-on (z+20Rsun) 575Rsun">
 
 <em>Unbound mass plot face-on ( z + 20Rsun) view 575Rsun </em>
+
+
+
+
+
