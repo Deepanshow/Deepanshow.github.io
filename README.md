@@ -131,11 +131,11 @@ Feedback edge view from P1 575Rsun
 
 ### run003 Vs run004
 
-<img src="/Plots/Rho/Rho_Edge_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+<img src="/Plots/Rho/Rho_Edge_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
 
 <em>Rho edge view from P1 575Rsun</em>
 
-<img src="/Plots/Rho/Rho_Edge_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+<img src="/Plots/Rho/Rho_Edge_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
 
 <em>Rho edge view from P1 575Rsun</em>
 
