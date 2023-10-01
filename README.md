@@ -80,6 +80,19 @@ Feedback edge view from P1 60Rsun
 
 Feedback edge view from P1 575Rsun
 
+### run003 Vs run004
+
+<img src="/Plots/Rho/Feedback_Edge_004_120Rsun.gif" alt="Rho Edge 120Rsun">
+<em>Feedback edge 60Rsun </em>
+
+<img src="/Plots/Rho/Feedback_Edge_004_1150Rsun.gif" alt="Rho Edge 1150Rsun">
+<em>Feedback edge 575Rsun </em>
+
+<img src="/Plots/Rho/Feedback_Edge_P1_004_120Rsun.gif" alt="Rho Edge 120Rsun">
+<em>Feedback edge view from P1 60Rsun </em>
+
+<img src="/Plots/Rho/Feedback_Edge_P1_004_1150Rsun.gif" alt="Rho Edge 1150Rsun">
+<em>Feedback edge view from P1 575Rsun </em>
 
 
 ## Rho Plots
