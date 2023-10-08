@@ -14,7 +14,7 @@ Common Envelope Evolution (CEE) is a crucial phase in the binary star evolution,
 
 The following table shows the details of the simulation runs conducted in this project:
 
-<img src="/Plots/Tables/Table 1.png" alt="Table" align="left">
+<img src="/Plots/Tables/Table 1.png" alt="Table" align="left" width="300" height="200">
 
 
 # Unbound Mass with Time
