@@ -71,7 +71,7 @@ The following table shows the details of the simulation runs conducted in this p
 <p align="center">
   Figure : Total Escape Mass comparing J8 (magenta dashed), run001 (blue dash-dotted) and run003 (red solid)
 </p>
-&nbsp;
+  &ensp;
 
 <img src="/Plots/Total Escape Mass due to jet_2023-09-19.png" alt="Total Unbound Mass jet only" align="center">
 <p align="center">
