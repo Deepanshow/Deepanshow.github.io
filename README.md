@@ -37,7 +37,7 @@ The following table shows the details of the simulation runs conducted in this p
 
 ### run004 Vs run003
 
-<img src="/Plots/Total Escape Mass due to jet 004.png" align="center">
+<img src="/Plots/Total Escape Mass due to Jet 004.png" align="center">
 
 
 <img src="/Plots/Total Escape Mass 004.png" align="center">
