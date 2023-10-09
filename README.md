@@ -16,33 +16,33 @@ In this section, we describe the methodology and setup employed in our study of 
 
 ### **Stellar Parameters**
 
-The primary star in our simulation has a mass of 1.96 solar masses ($M_\odot$) and a radius of $48.1 R_\odot$. Within the primary star, the core contains a mass of $0.37 M_\odot$. The secondary star has a mass of $0.98 M_\odot$ and is situated at a distance of $49.0 R_\odot$ from the primary star.
+The primary star in our simulation has a mass of 1.96 solar masses ($$M_\odot$$) and a radius of $$48.1 R_\odot$$. Within the primary star, the core contains a mass of $0.37 M_\odot$. The secondary star has a mass of $$0.98 M_\odot$$ and is situated at a distance of $$49.0 R_\odot$$ from the primary star.
 
 ### **Computational Domain**
 
-The computational domain, or simulation box, was set to dimensions of $1150 R_\odot \times 1150 R_\odot$. This adequately encapsulates the physical region of interest for the common envelope evolution process, ensuring that the interaction between the two stars and the ensuing envelope ejection can be accurately simulated.
+The computational domain, or simulation box, was set to dimensions of $$1150 R_\odot \times 1150 R_\odot$$. This adequately encapsulates the physical region of interest for the common envelope evolution process, ensuring that the interaction between the two stars and the ensuing envelope ejection can be accurately simulated.
 
 ### **Adaptive Mesh Refinement (AMR)**
 
-We employed Adaptive Mesh Refinement (AMR) techniques to ensure that our simulations achieved both high accuracy and computational efficiency. The highest resolution utilized in our simulations was $0.140 R_\odot$, which allowed us to capture intricate details of the common envelope evolution. Additionally, we used a base resolution of $2.25 R_\odot$ in regions where a coarser grid was sufficient, optimizing our computational resources.
+We employed Adaptive Mesh Refinement (AMR) techniques to ensure that our simulations achieved both high accuracy and computational efficiency. The highest resolution utilized in our simulations was $0.140 R_\odot$, which allowed us to capture intricate details of the common envelope evolution. Additionally, we used a base resolution of $$2.25 R_\odot$$ in regions where a coarser grid was sufficient, optimizing our computational resources.
 
 ### **Ambient Medium Properties**
 
-To simulate the surrounding ambient medium accurately, we specified the density and pressure of the medium. The density of the ambient medium was set to $6.7 \times 10^{-9} \textit{g cm}^{-3}$ . The pressure was chosen to be $1.0 \times 10^5 \textit{dyn cm}^{-2}$ .
+To simulate the surrounding ambient medium accurately, we specified the density and pressure of the medium. The density of the ambient medium was set to $$6.7 \times 10^{-9} \textit{g cm}^{-3}$$ . The pressure was chosen to be $$1.0 \times 10^5 \textit{dyn cm}^{-2}$$ .
 
 ## JET MODEL
 
 ### **Jet Geometry**
 
 - The jet axis is oriented perpendicular to the orbital plane of the binary system.
-- The jet has a specific opening angle, denoted as $\theta_h$, which was set to $\theta_h = 15^\circ$. This angle defines the extent of the jet's angular spread.
-- The distribution of density and radial velocity within the jet varies with polar angle. It is strongly peaked at polar angles less than $\theta_h/6$, emphasizing the concentration of jet material in a particular direction.
-- The majority of the jet mass is concentrated at a distance approximately equal to half the distance between the boundary of jet's spherical sector and the secondary star. This distance, denoted as $r_j$, was defined as $2.25 R_\odot$.
+- The jet has a specific opening angle, denoted as $\theta_h$, which was set to $$\theta_h = 15^\circ$$. This angle defines the extent of the jet's angular spread.
+- The distribution of density and radial velocity within the jet varies with polar angle. It is strongly peaked at polar angles less than $$\theta_h/6$$, emphasizing the concentration of jet material in a particular direction.
+- The majority of the jet mass is concentrated at a distance approximately equal to half the distance between the boundary of jet's spherical sector and the secondary star. This distance, denoted as $$r_j$$, was defined as $$2.25 R_\odot$$.
 
 ### **Initial Conditions**
 
 - To initiate the jet material, we provided it with an additional velocity component equal to the instantaneous orbital velocity of the secondary star.
-- The temperature of the jet material was set to $T_j = 10^4$ Kelvin ($10^4$ K). It is worth noting that the results of our simulations are independent of the jet's temperature due to the supersonic nature of the jet.
+- The temperature of the jet material was set to $$T_j = 10^4$$ Kelvin ($$10^4$$ K). It is worth noting that the results of our simulations are independent of the jet's temperature due to the supersonic nature of the jet.
 
 ### **Jet Structure**
 
