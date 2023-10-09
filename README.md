@@ -57,7 +57,9 @@ The following table shows the details of the simulation runs conducted in this p
   <img src="/Plots/Tables/Table 1.png" alt="Table" width="300" height="200">
 </p>
 
-
+<p align="center">
+  Table : Parameters used for different runs 
+</p>
 
 
 # Unbound Mass with Time
@@ -66,7 +68,9 @@ The following table shows the details of the simulation runs conducted in this p
 
 <img src="/Plots/Total Escape Mass_2023-09-19.png" alt="Total Unbound Mass" align="center">
 
-
+<p align="center">
+  Figure : Total Escape Mass comparing J8 (magenta), run001 (blue) and run003 (red)
+</p>
 
 <img src="/Plots/Total Escape Mass due to jet_2023-09-19.png" alt="Total Unbound Mass jet only" align="center">
 
