@@ -54,7 +54,7 @@ To simulate the surrounding ambient medium accurately, we specified the density 
 The following table shows the details of the simulation runs conducted in this project:
 
 <p align="center">
-  <img src="/Plots/Tables/Table 1.png" alt="Table" width="300" height="200">
+  <img src="/Plots/Tables/Table 1.png" alt="Table" width="400" height="200">
 </p>
 
 <p align="center">
