@@ -74,6 +74,7 @@ The following table shows the details of the simulation runs conducted in this p
 
 <img src="/Plots/Total Escape Mass due to jet_2023-09-19.png" alt="Total Unbound Mass jet only" align="center">
 
+&nbsp;
 
 
 <img src="/Plots/J8 Vs 001 Escape Mass2023-09-19.png" alt="Difference in run 001 and J8" align="center">
