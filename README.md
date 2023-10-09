@@ -16,7 +16,7 @@ In this section, we describe the methodology and setup employed in our study of 
 
 ### **Stellar Parameters**
 
-The primary star in our simulation has a mass of 1.96 solar masses ($M_\odot$) and a radius of $48.1 R_\odot$. Within the primary star, the core contains a mass of $0.37 M_\odot$. The secondary star has a mass of $0.98 M_\odot$ and is situated at a distance of $49.0 R_\odot$ from the primary star.
+The primary star in our simulation has a mass of 1.96 solar masses ($ M_\odot $) and a radius of $48.1 R_\odot$. Within the primary star, the core contains a mass of $0.37 M_\odot$. The secondary star has a mass of $0.98 M_\odot$ and is situated at a distance of $49.0 R_\odot$ from the primary star.
 
 ### **Computational Domain**
 
