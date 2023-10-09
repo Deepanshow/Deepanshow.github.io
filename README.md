@@ -18,13 +18,7 @@ The following table shows the details of the simulation runs conducted in this p
   <img src="/Plots/Tables/Table 1.png" alt="Table" width="300" height="200">
 </p>
 
-<p align="center">
-  <strong>Unbound Mass with Time</strong>
-</p>
 
-<img src="/Plots/Tables/Table 1.png" alt="Table" align="left" width="300" height="200">
-
-<br/>
 
 
 # Unbound Mass with Time
