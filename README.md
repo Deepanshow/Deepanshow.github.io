@@ -1,6 +1,6 @@
 
-$\pi \mu$
-$'\pi \mu'$
+$ \pi \mu $
+$' \pi \mu' $
 
 # Effect of Neutron star jet on Common Envelope Evolution (CEE)
 ## Supervisor: Dr. Luke Chamandy
