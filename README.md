@@ -1,5 +1,6 @@
 
-
+$\pi \mu$
+$'\pi \mu'$
 
 # Effect of Neutron star jet on Common Envelope Evolution (CEE)
 ## Supervisor: Dr. Luke Chamandy
@@ -69,64 +70,92 @@ The following table shows the details of the simulation runs conducted in this p
 <img src="/Plots/Total Escape Mass_2023-09-19.png" alt="Total Unbound Mass" align="center">
 
 <p align="center">
-  Figure : Total Escape Mass comparing J8 (magenta dashed), run001 (blue dash-dotted) and run003 (red solid)
+  Figure : Total Escape Mass for run J8 (magenta dashed), run001 (blue dash-dotted) and run003 (red solid)
 </p>
   &ensp;
 
 <img src="/Plots/Total Escape Mass due to jet_2023-09-19.png" alt="Total Unbound Mass jet only" align="center">
 <p align="center">
-  Figure : Total Escape Mass due to Jet comparing J8 (magenta dashed), run001 (blue dash-dotted) and run003 (red solid)
+  Figure : Total Escape Mass due to jet for run J8 (magenta dashed), run001 (blue dash-dotted) and run003 (red solid)
 </p>
+  &ensp;
 
 
 
 <img src="/Plots/J8 Vs 001 Escape Mass2023-09-19.png" alt="Difference in run 001 and J8" align="center">
+<p align="center">
+  Figure : Total Escape Mass due to jet closely comparing J8 (magenta dashed) and run001 (blue dash-dotted)
+</p>
+  &ensp;
 
-### run004 Vs run003
 
-<img src="/Plots/Total Escape Mass due to Jet 004.png" align="center">
-
+### run004 Vs run004
 
 <img src="/Plots/Total Escape Mass 004.png" align="center">
+<p align="center">
+  Figure : Total Escape Mass comparing run003 (red solid) and run004 (green dash-dotted)
+</p>
+  &ensp;
+  
 
-
+<img src="/Plots/Total Escape Mass due to Jet 004.png" align="center">
+<p align="center">
+  Figure : Total Escape Mass due to jet comparing run003 (red solid) and run004 (green dash-dotted)
+</p>
+  &ensp;
+  
 # Accretion 
 
 <img src="/Plots/Accretion_with_time_2023-09-19.png" alt="Accretion rate for different runs" align="center">
-
+<p align="center">
+  Figure : Total mass accretion with time for J8(magenta), run001(blue dash-dotted) and run003 (red solid) 
+</p>
+  &ensp;
+  
 <img src="/Plots/Accretion_rate_2023-09-19.png" alt="Accretion rate for different runs" align="center">
-
+<p align="center">
+  Figure : Accretion rate for J8(magenta), run001(blue dash-dotted) and run003 (red solid) 
+</p>
+  &ensp;
 
 
 <br><br>
 # Movies
 
 
-## Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
+Below are the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:
 
 
 
-## Feedback Plot
+## Feedback Plots
 
 
 <img src="/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif" alt="Feedback Edge 60Rsun" align="center">
-
+<p align="center">
+  Figure : Feedback Edge-on throught particles 120 Rsun
+</p>
+  &ensp;
+  
 Feedback edge 60Rsun
 
 <br> <br>
 
-
 <img src="/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif" alt="Feedback Edge 575Rsun" align="center">
-
-Feedback edge 575Rsun
+<p align="center">
+  Figure : Feedback Edge-on through particles 1150 Rsun
+</p>
+  &ensp;
 
 <br><br>
 
 
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Edge View from P1 60Rsun" align="center">
 
-Feedback edge view from P1 60Rsun
-
+<p align="center">
+  Figure : Feedback edge view from P1 60Rsun
+</p>
+  &ensp;
+  
 <br><br>
 
 
