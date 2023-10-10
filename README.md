@@ -111,7 +111,8 @@ The following table shows the details of the simulation runs conducted in this p
   Figure : Total mass accretion with time for J8(magenta), run001(blue dash-dotted) and run003 (red solid) 
 </p>
   &ensp;
-  
+
+
 <img src="/Plots/Accretion_rate_2023-09-19.png" alt="Accretion rate for different runs" align="center">
 <p align="center">
   Figure : Accretion rate for J8(magenta), run001(blue dash-dotted) and run003 (red solid) 
@@ -152,7 +153,7 @@ Feedback edge 60Rsun
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Edge View from P1 60Rsun" align="center">
 
 <p align="center">
-  Figure : Feedback edge view from P1 60Rsun
+  Figure : Feedback edge view from P1 120Rsun
 </p>
   &ensp;
   
@@ -160,73 +161,107 @@ Feedback edge 60Rsun
 
 
 <img src="/Plots/Feedback%20Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Edge View from P1 575Rsun" align="center">
+<p align="center">
+  Figure : Feedback edge view from P1 1150Rsun
+</p>
+  &ensp;
 
-Feedback edge view from P1 575Rsun
 
 ### run003 Vs run004
 
 <img src="/Plots/Feedback%20Plots/Feedback_Edge_004_120Rsun.gif" alt="Rho Edge 120Rsun">
-<em>Feedback edge 60Rsun </em>
+<p align="center">
+  Figure : Feedback edge-on through particles 120Rsun
+</p>
+  &ensp;
+<br><br>
 
 <img src="/Plots/Feedback%20Plots/Feedback_Edge_004_1150Rsun.gif" alt="Rho Edge 1150Rsun">
-<em>Feedback edge 575Rsun </em>
+<p align="center">
+  Figure : Feedback edge-on throught particles 1150Rsun
+</p>
+  &ensp;
+<br><br>
 
 <img src="/Plots/Feedback%20Plots/Feedback_Edge_P1_004_120Rsun.gif" alt="Rho Edge 120Rsun">
-<em>Feedback edge view from P1 60Rsun </em>
+<p align="center">
+  Figure : Feedback edge view from P1 120Rsun
+</p>
+  &ensp;
+<br><br>
 
 <img src="/Plots/Feedback%20Plots/Feedback_Edge_P1_004_1150Rsun.gif" alt="Rho Edge 1150Rsun">
-<em>Feedback edge view from P1 575Rsun </em>
+<p align="center">
+  Figure : Feedback edge view from P1 1150Rsun
+</p>
+  &ensp;
+<br><br>
 
 
 ## Rho Plots
 
-
-
-  <img src="/Plots/Rho/rho_edge_60Rsun.gif" alt="Rho Edge Full">
-
-<em>Rho edge 60 Rsun </em>
-
+<img src="/Plots/Rho/rho_edge_60Rsun.gif" alt="Rho Edge Full">
+<p align="center">
+  Figure : Rho edge-on through particles 120Rsun
+</p>
+  &ensp;
 <br><br>
 
 
-  <img src="/Plots/Rho/rho_edge_575Rsun.gif" alt="Rho Edge Full">
-
-<em>Rho edge 575 Rsun</em>
-
+<img src="/Plots/Rho/rho_edge_575Rsun.gif" alt="Rho Edge Full">
+<p align="center">
+  Figure : Rho edge-on through particles 1150Rsun
+</p>
+&ensp;
 <br><br>
 
 
-  <img src="/Plots/Rho/rho_edge_P1_60Rsun.gif" alt="Rho Edge View from P1 60Rsun">
-
-<em>Rho edge view from P1 60Rsun</em>
-
+<img src="/Plots/Rho/rho_edge_P1_60Rsun.gif" alt="Rho Edge View from P1 60Rsun">
+<p align="center">
+  Figure : Rho edge view from P1 120Rsun
+</p>
+&ensp;
 <br><br>
 
 
-  <img src="/Plots/Rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+<img src="/Plots/Rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+<p align="center">
+  Figure : Rho edge view from P1 1150Rsun
+</p>
+&ensp;
 
-<em>Rho edge view from P1 575Rsun</em>
-
-<br><br>
 
 ### run003 Vs run004
 
 <img src="/Plots/Rho/Rho_Edge_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
-
-<em>Rho edge view from P1 575Rsun</em>
+<p align="center">
+  Figure : Rho edge-on through particles 120Rsun
+</p>
+&ensp;
+<br><br>
 
 <img src="/Plots/Rho/Rho_Edge_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
+<p align="center">
+  Figure : Rho edge-on through particles 1150Rsun
+</p>
+&ensp;
+<br><br>
 
-<em>Rho edge view from P1 575Rsun</em>
+<em></em>
 
 <img src="/Plots/Rho/Rho_Edge_P1_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun">
-
-<em>Rho edge view from P1 575Rsun</em>
+<p align="center">
+  Figure : Rho edge view from P1 120Rsun
+</p>
+&ensp;
+<br><br>
 
 <img src="/Plots/Rho/Rho_Edge_P1_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun">
-
-<em>Rho edge view from P1 575Rsun</em>
-
+<p align="center">
+  Figure : Rho edge view from P1 1150Rsun
+</p>
+&ensp;
+<br><br>
 
 
 ## Rho With Vector
