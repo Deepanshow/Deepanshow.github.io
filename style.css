@@ -1,9 +1,9 @@
 body {
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    justify-content: left; /* Center horizontally */
+    align-items: left; /* Center vertically */
     height: 100vh; /* Optional: Set body height to viewport height */
 }
 .center-container {
-    text-align: center; /* Center text content within the container */
+    text-align: left; /* Center text content within the container */
 }
