@@ -11,9 +11,15 @@
 			     }
 
             h1 { text-align: justify}
+
 			.container {
 				    text-align: left;
 				   }
+
+            .reduced-margin {
+                                margin-bottom: -20px; /* Adjust the margin as needed */
+                            }
+
 			.center {
 				display: flex;
 				justify-content: center; /* Center-align horizontally */
@@ -68,6 +74,8 @@
                 background-color: #f2f2f2;
             }
 
+
+
 		</style>
 		
 		
@@ -75,9 +83,10 @@
 
 	<body>
 	
-		<h1 id="effect-of-neutron-star-jet-on-common-envelope-evolution-cee">Effect of Neutron star jet on Common Envelope Evolution (CEE)</h1>
-    <div class=container>	
-        <h2 id="supervisor-dr.-luke-chamandy" align="left">Supervisor: Dr. Luke Chamandy</h2>
+		<h1 class= "reduced-margin" id="effect-of-neutron-star-jet-on-common-envelope-evolution-cee" align="left">Effect of Neutron star jet on Common Envelope Evolution (CEE)</h1>
+    <div class=container>
+        <h3 class="reduced-margin"> Deepanshu Gurjar</h3>	
+        <h3 id="supervisor-dr.-luke-chamandy" align="left">Supervisor: Dr. Luke Chamandy</h2>
 		<p>
 			In this project, we aim to investigate the impact of a neutron star jet on the Common Envelope Evolution (CEE) process. The Common Envelope Evolution occurs in binary star systems where one star expands and engulfs its companion
 			within its envelope. This interaction leads to the formation of a close binary system, which can undergo various evolutionary paths.
@@ -118,15 +127,8 @@
 		<ul>
 			<li>The jet axis is oriented perpendicular to the orbital plane of the binary system.</li>
 			<li>
-				The jet has a specific opening angle, denoted as
-				<span class="math inline">
-					<em>θ</em><sub><em>h</em></sub>
-				</span>
-				, which was set to
-				<span class="math inline">
-					<em>θ</em><sub><em>h</em></sub> = 15<sup>∘</sup>
-				</span>
-				. This angle defines the extent of the jet’s angular spread.
+				The jet has half-opening angle denoted by \(\theta_h\) which is set to \(\theta_h = 15\)&deg; 
+                This angle defines the extent of the jet’s angular spread.
 			</li>
 			<li>
 				The distribution of density and radial velocity within the jet varies with polar angle. It is strongly peaked at polar angles less than
@@ -142,6 +144,11 @@
 				</span>
 				, was defined as <span class="math inline">2.25<em>R</em><sub>⊙</sub></span>.
 			</li>
+            <li>Following the framework established by Fedderath, our jet model features a high-momentum spine with a narrow opening angle. This spine represents a focused, collimated portion of the jet with high momentum.</li>
+			<li>
+				In addition to the high-momentum spine, our model also includes a lower-momentum component known as the ‘wide angle wind.’ This component is characterized by a broader angular spread, contributing to a more diffuse region of
+				the jet.
+			</li>
 		</ul>
 		<h3 id="initial-conditions"><strong>Initial Conditions</strong></h3>
 		<ul>
@@ -154,14 +161,9 @@
 				Kelvin (<span class="math inline">10<sup>4</sup></span> K). It is worth noting that the results of our simulations are independent of the jet’s temperature due to the supersonic nature of the jet.
 			</li>
 		</ul>
-		<h3 id="jet-structure"><strong>Jet Structure</strong></h3>
-		<ul>
-			<li>Following the framework established by Fedderath, our jet model features a high-momentum spine with a narrow opening angle. This spine represents a focused, collimated portion of the jet with high momentum.</li>
-			<li>
-				In addition to the high-momentum spine, our model also includes a lower-momentum component known as the ‘wide angle wind.’ This component is characterized by a broader angular spread, contributing to a more diffuse region of
-				the jet.
-			</li>
-		</ul>
+		
+			
+		
 		<h2 id="simulation-runs">Simulation Runs</h2>
 		<p>The following table shows the details of the simulation runs conducted in this project:</p>
 
