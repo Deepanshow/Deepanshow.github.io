@@ -32,6 +32,14 @@
 				font-family:'Gill Sans Mt';
 			}
 
+			.equation {
+				
+				font-size : 25px;
+				justify-content : center;
+				text-align: center;
+				font-family: cambria math;
+						}
+
 			ul {
 				font-size : 17px;
 				font-family:'Gill Sans Mt';
@@ -101,7 +109,7 @@
 			consideration of the stellar parameters, computational domain, and resolution levels.
 		</p>
 		<h3 id="stellar-parameters"><strong>Stellar Parameters</strong></h3>
-		<p>
+		<p>Jet material
 			The primary star in our simulation has a mass of 1.96 solar masses ($ M_$) and a radius of <span class="math inline">48.1<em>R</em><sub>⊙</sub></span>. Within the primary star, the core contains a mass of
 			<span class="math inline">0.37<em>M</em><sub>⊙</sub></span>. The secondary star has a mass of <span class="math inline">0.98<em>M</em><sub>⊙</sub></span> and is situated at a distance of
 			<span class="math inline">49.0<em>R</em><sub>⊙</sub></span> from the primary star.
@@ -162,8 +170,47 @@
 			</li>
 		</ul>
 		
-			
+		<h2>Super-Eddington Accretion</h2>
+		<p>
+			As the envelope material starts accreting on to the secodnary, we can calculate this rate of accretion. 
+			Using the virial theorem, which states that half the liberated potential energy is added to the accretor in the form of thermal energy. Assuming the opacity due to electron, we find the following expression for the mass accretion rate on to the secondary 
+		</p>
 		
+		<div align="center" class= "equation">
+			\(\dot{m}_{2,Edd} = 2.1 \times 10^{-3} \tilde{\lambda} (\frac{R_*}{R_\odot})\)
+		</div>
+		<p>
+			where \(R_*\) is the radius of the companion and \(\tilde{\lambda}\) is the efficieny parameter that depends on the density profile
+		</p>
+
+		<h2>Envelope Unbinding</h2>
+		<p>
+			Following definition for gas "unbound" has been used
+		</p>
+
+		<div class= "equation" align="center">
+			\( E_{unb} = E_{kin, gas} + E_{int, gas} + E_{pot, gas-gas} + 2E_{pot, gas-1} + 2E_{pot, gas-2} \)
+		</div>
+		where
+		<ul>
+			<li>
+				\(E_{kin, gas}\) = Kinetic energy density of bulk motion 
+			</li>
+			<li> 
+				\(E_{int, gas}\) = Internal energy density
+			</li>
+			<li>
+				\(E_{pot, gas-gas}\) = Potential energy density due to self-gravity of the gas
+			</li>
+			<li>
+				\(E_{pot, gas-1}\) = Potential energy of gas with particle 1, the RGB core
+			</li>
+			<li>	
+				\(E_{pot, gas-2}\) = Potential energy of gas with particle 2, the companion 
+			</li>
+		</ul>
+
+		Gas is considred to be unbound if \(E_{unb} \) > 0 .		
 		<h2 id="simulation-runs">Simulation Runs</h2>
 		<p>The following table shows the details of the simulation runs conducted in this project:</p>
 
@@ -274,28 +321,28 @@
         <h1 id="Movies">Movies</h1>
 		<p>Below are link to the plots showcasing the simulation of a neutron star jet and its effect on the Common Envelope Evolution:</p>
 
-		<h2 id="feedback-plots">Feedback Plots</h2>
+		<h2 id="Jet-gas-plots">Jet-gas Plots</h2>
             <ul>
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_edge_60Rsun.gif" alt="Feedback Edge 60Rsun" align="center">
-                Figure : Feedback Edge-on throught particles 120 Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_edge_60Rsun.gif" alt="Jet-gas Edge 60Rsun" align="center">
+                Jet-gas Edge-on through particles 120 Rsun
             </a>
             
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_edge_575Rsun.gif" alt="Feedback Edge 575Rsun" align="center" >
-                Figure : Feedback Edge-on through particles 1150 Rsun
-            </a>
-            </li>
-            
-            <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_edge_P1_60Rsun.gif" alt="Feedback Edge View from P1 60Rsun" align="center">
-		        Figure : Feedback edge view from P1 120Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_edge_575Rsun.gif" alt="Jet-gas Edge 575Rsun" align="center" >
+                Jet-gas Edge-on through particles 1150 Rsun
             </a>
             </li>
             
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_edge_P1_575Rsun.gif" alt="Feedback Edge View from P1 575Rsun" align="center">
-                Figure : Feedback edge view from P1 1150Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_edge_P1_60Rsun.gif" alt="Jet-gas Edge View from P1 60Rsun" align="center">
+		        Jet-gas edge view from P1 120Rsun
+            </a>
+            </li>
+            
+            <li>
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_edge_P1_575Rsun.gif" alt="Jet-gas Edge View from P1 575Rsun" align="center">
+                Jet-gas edge view from P1 1150Rsun
             </a>
             </li>
             
@@ -303,27 +350,27 @@
 		 
             <h3 id="run003-vs-run004">run003 Vs run004</h3>
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_Edge_004_120Rsun.gif" alt="Rho Edge 120Rsun" >
-                    Figure : Feedback edge-on through particles 120Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_Edge_004_120Rsun.gif" alt="Rho Edge 120Rsun" >
+                    Jet-gas edge-on through particles 120Rsun
             </a>
             </li>
 
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_Edge_004_1150Rsun.gif" alt="Rho Edge 1150Rsun" >
-                    Figure : Feedback edge-on throught particles 1150Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_Edge_004_1150Rsun.gif" alt="Rho Edge 1150Rsun" >
+                    Jet-gas edge-on through particles 1150Rsun
             </a>
             </li>
 
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_Edge_P1_004_120Rsun.gif" alt="Rho Edge 120Rsun" >
-                    Figure : Feedback edge view from P1 120Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_Edge_P1_004_120Rsun.gif" alt="Rho Edge 120Rsun" >
+                    Jet-gas edge view from P1 120Rsun
             </a>
             </li>
 
             
             <li>
-            <a target="_blank" href="/Plots/Feedback%20Plots/Feedback_Edge_P1_004_1150Rsun.gif" alt="Rho Edge 1150Rsun" >
-                    Figure : Feedback edge view from P1 1150Rsun
+            <a target="_blank" href="/Plots/Jet-gas%20Plots/Jet-gas_Edge_P1_004_1150Rsun.gif" alt="Rho Edge 1150Rsun" >
+                    Jet-gas edge view from P1 1150Rsun
             </a>
             </li>
             </ul>
@@ -332,50 +379,50 @@
         <ul>
 		<li>
 		<a target="_blank" href="/Plots/Rho/rho_edge_60Rsun.gif" alt="Rho Edge Full" >
-		         Figure : Rho edge-on through particles 120Rsun
+		         Rho edge-on through particles 120Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/rho_edge_575Rsun.gif" alt="Rho Edge Full" >
-		         Figure : Rho edge-on through particles 1150Rsun
+		         Rho edge-on through particles 1150Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/rho_edge_P1_60Rsun.gif" alt="Rho Edge View from P1 60Rsun" >
-		         Figure : Rho edge view from P1 120Rsun
+		         Rho edge view from P1 120Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/rho_edge_P1_575Rsun.gif" alt="Rho Edge View from P1 575Rsun" >
-		         Figure : Rho edge view from P1 1150Rsun
+		         Rho edge view from P1 1150Rsun
 		</a>
 		</li>
 		 
 		<h3 id="run003-vs-run004-1">run003 Vs run004</h3>
 		<li>
 		<a target="_blank" href="/Plots/Rho/Rho_Edge_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun" >
-		         Figure : Rho edge-on through particles 120Rsun
+		         Rho edge-on through particles 120Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/Rho_Edge_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun" >
-		         Figure : Rho edge-on through particles 1150Rsun
+		         Rho edge-on through particles 1150Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/Rho_Edge_P1_004_1150Rsun.gif" alt="Rho Edge View from P1 575Rsun" >
-		         Figure : Rho edge view from P1 120Rsun
+		         Rho edge view from P1 120Rsun
 		</a>
 		</li>
 
 		<li>
 		<a target="_blank" href="/Plots/Rho/Rho_Edge_P1_004_120Rsun.gif" alt="Rho Edge View from P1 575Rsun" >
-		         Figure : Rho edge view from P1 1150Rsun
+		         Rho edge view from P1 1150Rsun
 		</a>
 		</li>
 
@@ -383,7 +430,7 @@
             
             <li>
             <a target="_blank" href="/Plots/Other_Plots/rho_with_vectors_edge_P1_60Rsun.gif" alt="rho with vector full" >
-                Figure: Rho with vectors 60Rsun 
+                Rho with vectors 60Rsun 
             </a>
             </li>
             </ul>
