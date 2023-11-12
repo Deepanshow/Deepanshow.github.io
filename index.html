@@ -110,7 +110,7 @@
 		</p>
 		<h3 id="stellar-parameters"><strong>Stellar Parameters</strong></h3>
 		<p>Jet material
-			The primary star in our simulation has a mass of 1.96 solar masses \(M_\odot \) and a radius of <span class="math inline">48.1<em>R</em><sub>⊙</sub></span>. Within the primary star, the core contains a mass of
+			The primary star in our simulation has a mass of 1.96  and a radius of <span class="math inline">48.1<em>R</em><sub>⊙</sub></span>. Within the primary star, the core contains a mass of
 			<span class="math inline">0.37<em>M</em><sub>⊙</sub></span>. The secondary star has a mass of <span class="math inline">0.98<em>M</em><sub>⊙</sub></span> and is situated at a distance of
 			<span class="math inline">49.0<em>R</em><sub>⊙</sub></span> from the primary star.
 		</p>
@@ -217,58 +217,132 @@
 		<table>
             <tr>
                 <th>Run</th>
+				
+				<th>Significance</th>
                 <th>\(𝑀̇_𝑗 (10^{-5} 𝑀̇_\odot \textit{ yr}^{-1} )\)</th>
                 <th>\(𝑣_𝑗\) (km/s)</th>
                 <th>\(\dot{m}_{2,Edd} (M_\odot \textit{ yr}^{-1})\)</th>
                 <th>\(𝑀̇_{acc} (M_\odot \textit{ yr}^{-1})\)</th>
                 <th>MinDensity (g/cc)</th>
                 <th>\(\dot{M}_j / \dot{m}_{2,Edd}\)</th>
+				<th>Restart_time</th>
+				<th>MaxLevel</th>
+				<th>Status</th>
             </tr>
             <tr>
                 <td>J8</td>
+				
+				<td>WD run</td>
                 <td>2</td>
                 <td>8640</td>
-                <td>2.1 × 10⁻⁵ 𝑀⊙</td>
+                <td>2.1 × 10⁻⁵ </td>
                 <td>0.2</td>
                 <td>1e-10</td>
                 <td>0.95 </td>
+				<td> 0 d</td>
+				<td> 4 </td>
+				<td> Complete </td>
             </tr>
             <tr>
                 <td>001</td>
+				
+				<td>Higher \(\dot{M}_j\)</td>
                 <td>20</td>
                 <td>8640</td>
                 <td>-</td>
                 <td>0.2 - 1.0</td>
                 <td>1e-10</td>
                 <td>-</td>
+				<td> 19.91 d</td>
+				<td> 4 </td>
+				
+				<td> Complete </td>
             </tr>
             <tr>
                 <td>003</td>
+				
+				<td>NS run (High \( \dot{M}_j \) and \(v_j\))</td>
                 <td>20</td>
                 <td>30000</td>
-                <td>3.4 × 10⁻¹⁰ 𝑀⊙</td>
+                <td>3.4 × 10⁻¹⁰ </td>
                 <td>0.1 to 1.0</td>
                 <td>1e-10</td>
                 <td>\(5.9 \times 10^{6}\)</td>
+				<td> 19.91 d</td>
+				<td> 4 </td>
+				<td> Complete </td>
             </tr>
             <tr>
                 <td>004</td>
+				
+				<td>No-Accretion NS run</td>
                 <td>20</td>
                 <td>30000</td>
-                <td>3.4 × 10⁻¹⁰ 𝑀⊙</td>
+                <td>3.4 × 10⁻¹⁰ </td>
                 <td>0</td>
                 <td>1e-10</td>
                 <td>\(5.9 \times 10^{6}\)</td>
+				<td> 19.91 d</td>
+				<td> 4 </td>
+				<td> Complete </td>
             </tr>
             <tr>
                 <td>005</td>
+				
+				<td> Lower MinDensity </td>
                 <td>20</td>
                 <td>30000</td>
-                <td>3.4 × 10⁻¹⁰ 𝑀⊙</td>
+                <td>3.4 × 10⁻¹⁰ </td>
                 <td>-</td>
                 <td>1e-12</td>
                 <td>\(5.9 \times 10^{6}\)</td>
+				<td> 33.80 d</td>
+				<td> 4 </td>
+				<td> Complete </td>
             </tr>
+			<tr>
+			<td>006</td>
+			
+			<td>High Resolution</td>
+                <td>20</td>
+                <td>30000</td>
+                <td>3.4 × 10⁻¹⁰ </td>
+                <td>-</td>
+                <td>1e-12</td>
+                <td>\(5.9 \times 10^{6}\)</td>
+				<td> 19.91 d</td>
+				<td> 5 </td>
+				<td> frame 93 </td>
+			</tr>
+			<tr>
+			<td>007</td>
+			
+				<td>Low Resolution</td>
+                <td>20</td>
+                <td>30000</td>
+                <td>3.4 × 10⁻¹⁰ </td>
+                <td>-</td>
+                <td>1e-12</td>
+                <td>\(5.9 \times 10^{6}\)</td>
+				<td> 19.91 d</td>
+				<td> 3 </td>
+				<td> frame 96  </td>
+			</tr>
+			
+			<tr>
+				<td>008</td>
+				
+				<td>Started at an earlier time</td>
+					<td>20</td>
+					<td>30000</td>
+					<td>3.4 × 10⁻¹⁰ </td>
+					<td>-</td>
+					<td>1e-12</td>
+					<td>\(5.9 \times 10^{6}\)</td>
+					<td> 14 d</td>
+					<td> 4 </td>
+					<td> frame 70 </td>
+				</tr>
             
         </table>
 	</div>
